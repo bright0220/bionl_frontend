@@ -1,0 +1,33 @@
+@font-face {
+  font-family: "DMSansR";
+  src: url("../fonts/DMSans-Regular.ttf");
+  font-display: swap;
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "DMSansM";
+  src: url("../fonts/DMSans-Medium.ttf");
+  font-display: swap;
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: "DMSansB";
+  src: url("../fonts/DMSans-Bold.ttf");
+  font-display: swap;
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "SourceCodePro";
+  src: url("../fonts/SourceCodePro.ttf");
+  font-display: swap;
+  font-weight: 1 999;
+  font-style: normal;
+}
+::selection{
+  color: #fff;
+  background-color: #684bff;
+}

@@ -1,0 +1,30 @@
+{
+  "Variable": {
+    "0": "overall survival time (Months)",
+    "1": "disease-specific survival time (Months)",
+    "2": "disease-free interval time (Months)",
+    "3": "progression-free interval time (Months)",
+    "4": "Age at diagnosis"
+  },
+  "Mean": {
+    "0": 32.3454894434,
+    "1": 32.3454894434,
+    "2": 25.8481617647,
+    "3": 24.6165834933,
+    "4": 42.7490421456
+  },
+  "SD": {
+    "0": 32.3842008518,
+    "1": 32.3842008518,
+    "2": 23.3922229622,
+    "3": 24.6018891519,
+    "4": 13.4089754598
+  },
+  "Range": {
+    "0": "0 - 211",
+    "1": "0 - 211",
+    "2": "0 - 172",
+    "3": "0 - 172",
+    "4": "14 - 87"
+  }
+}

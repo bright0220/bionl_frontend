@@ -1,0 +1,20 @@
+export type Dataset = {
+  id: number;
+  name: string;
+  tissue_source: string;
+  tissue_code: string;
+  tissue_standard: string;
+  data_type: string;
+  is_private: boolean;
+  data_source: string;
+  data_link: string;
+  metadata: string;
+  blob_url: string;
+  sample_count: number;
+  identifiers_count: number;
+  size: number;
+  description: string;
+  summary_specific: string;
+  preview: any;
+  is_loaded: boolean;
+};

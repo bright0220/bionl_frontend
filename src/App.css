@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primay: black;
+  --bg-primay: white;
+
+  --link: #2a0b0b;
+}
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+
+#clinical > div {
+  overflow-x: visible !important;
+}
+
+li[aria-current="page"] > button {
+  --tw-text-opacity: 1;
+  color: rgb(28 100 242 / var(--tw-text-opacity));
+  background-color: #eee;
+}
