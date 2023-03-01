@@ -21,7 +21,7 @@ export const ResetPasswordPage = () => {
     sendPasswordResetEmail(auth, email)
       .then(() => {
         toast("A reset password email has been sent to you", {
-          type: "success",
+          type: "Success",
         });
       })
       .catch((e) => {
