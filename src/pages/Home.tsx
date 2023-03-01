@@ -85,7 +85,7 @@ const HomePage = () => {
               className="flex items-center gap-1 text-neutral-500 underline"
               onClick={logout}
             >
-              Logout
+              SignOut
               <ArrowRightOnRectangleIcon className="w-5" />
             </button>
           </div>
