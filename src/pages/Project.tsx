@@ -58,7 +58,7 @@ const ProjectPage = () => {
         <div className="sm:min-w[300px] relative my-14 mx-auto max-w-5xl lg:my-12 lg:w-[640px] md:my-8 md:w-[600px] sm:w-[90%]">
           <div className="sticky top-0 z-10 w-full shadow-neutral-200 backdrop-blur-lg">
             <Link className="flex  items-center py-2 text-neutral-600 " to="/">
-              <ArrowLeftIcon className="mr-2 h-5 w-5" /> Tasks
+              <ArrowLeftIcon className="mr-2 h-5 w-5" /> Projects
             </Link>
             <ProjectHeader
               project={project}
