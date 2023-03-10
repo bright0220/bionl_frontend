@@ -88,7 +88,7 @@ export const LoginPage = () => {
 
             <div className="flex flex-col gap-1 text-sm text-neutral-500">
               <Link className="" to="/register">
-                New to bionl? <span className="text-primary-500">Sign up</span>
+                New to bionl? <span className="text-primary-500">Sign Up</span>
               </Link>
               <Link to="/reset">Forgot password?</Link>
             </div>
